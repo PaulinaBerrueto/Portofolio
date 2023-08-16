@@ -13,8 +13,8 @@ berruetopaulina@gmail.com
 
 ## Work Experience
 
-<b>La Terraza</b>                                                                                Ciudad Juarez, MEX
-Waitress                                                                                         August 2017 - May 2018
+<b>La Terraza</b>   <br>                                                                         Ciudad Juarez, MEX
+Waitress            <br>                                                                         August 2017 - May 2018
 - Customer service.
 - Cleaning and maintenance of the work area.
 - Opening and closing of cash at the end of each shift.
