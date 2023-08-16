@@ -14,6 +14,7 @@ berruetopaulina@gmail.com
 ## Work Experience
 
 <b>La Terraza</b>  Waitress 
+
 Ciudad Juarez, MEX 
 August 2017 - May 2018
                                                                                     
@@ -24,7 +25,8 @@ August 2017 - May 2018
 - Organization.
 - Collaboration with the rest of the team in general activities
   
-<b>-30 Grados</b>  Shift Manager                                                                                  
+<b>-30 Grados</b>  Shift Manager 
+
 Saltillo, MEX 
 June 2021 - October 2021
 
@@ -45,7 +47,9 @@ August 2022 - December 2022
 - Inventory.
 - Customer service.
 
-<b>IE Trade Comercial</b> Bilingual Administrative Assistant                                                                    Ciudad Juarez, MEX             
+<b>IE Trade Comercial</b> Bilingual Administrative Assistant    
+
+Ciudad Juarez, MEX             
 March 2022 - July 2022
 
 - Make invoices.
@@ -79,7 +83,9 @@ Introduction to Front-End Development
 Introduction to HTML5 and CSS3
 
 ## Internships
-<b>UACJ</b> Subject of Professional Practices                                                                                Ciudad Juarez, MEX
+<b>UACJ</b> Subject of Professional Practices  
+
+Ciudad Juarez, MEX
 August - December 2022
 
 - Filling of pedimento.
