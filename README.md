@@ -13,8 +13,9 @@ berruetopaulina@gmail.com
 
 ## Work Experience
 
-<b>La Terraza</b>   <br>                                                                         Ciudad Juarez, MEX
-Waitress            <br>                                                                         August 2017 - May 2018
+<b>La Terraza</b>  Waitress 
+Ciudad Juarez, MEX - &emsp - &emsp - &emsp - &emsp - &emsp - &emsp - &emsp - &emsp August 2017 - May 2018
+                                                                                    
 - Customer service.
 - Cleaning and maintenance of the work area.
 - Opening and closing of cash at the end of each shift.
@@ -22,8 +23,8 @@ Waitress            <br>                                                        
 - Organization.
 - Collaboration with the rest of the team in general activities
   
-<b>-30 Grados</b>                                                                                Saltillo, MEX
-Shift Manager                                                                                    June 2021 - October 2021
+<b>-30 Grados</b>  Shift Manager                                                                                  
+Saltillo, MEX - &emsp - &emsp - &emsp - &emsp - &emsp - &emsp - &emsp - &emsp June 2021 - October 2021
 - Customer service.
 - Cleaning and maintenance of the work area.
 - Inventory.
@@ -33,8 +34,8 @@ Shift Manager                                                                   
 - Efficient management of payment terminals.
 - Verification of goods entered and quality control.
 
-<b>Beca Trabajo UACJ</b>                                                                         Ciudad Juarez, MEX
-Technical Support                                                                                August 2022 - December 2022
+<b>Beca Trabajo UACJ</b> Technical Support                                                                       
+Ciudad Juarez, MEX - &emsp - &emsp - &emsp - &emsp - &emsp - &emsp - &emsp - &emsp  August 2022 - December 2022
 - Equipment loan.
 - Inventory.
 - Customer service.
