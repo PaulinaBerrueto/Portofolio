@@ -1,5 +1,8 @@
 # Paulina Berrueto
 Bachelor's degree in Foreign Trade
+### Contact
+berruetopaulina@gmail.com
++ 52 844 870 8140
 
 ## Web Developer
  Technical Skills
