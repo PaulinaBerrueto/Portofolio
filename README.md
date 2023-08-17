@@ -2,7 +2,7 @@
 
 ### Contact
 - berruetopaulina@gmail.com
-- + 52 844 870 8140
+- (+52) 844 870 8140
 
 ## Web Developer
  Technical Skills
