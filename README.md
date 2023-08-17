@@ -79,6 +79,9 @@ First Aid    2021
 <b>Google</b>
 Foundations of User Experience (UX) Design 
 
+&nbsp; <img src="https://github.com/PaulinaBerrueto/Portofolio/blob/main/Coursera%20Foundations%20of%20UX%20Design2.png" width="100" height="70"/>&nbsp;
+
+
 <b>CALARTS</b>
 Visual Elements of User Interface Design
 
